@@ -1,8 +1,5 @@
 <script>
-  import "../styles/app.css";
   import create from "$lib/images/creativevizions.png";
-  import Navbar from "$lib/components/Navbar.svelte";
-  import Hero from "$lib/components/Hero.svelte";
 </script>
 
 <Navbar name="TBBV" />
